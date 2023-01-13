@@ -29,7 +29,7 @@ from matplotlib import tri
 import math
 import random
 import time
-import mpl_toolkits.mplot3d.art3d as art3d
+#import mpl_toolkits.mplot3d.art3d as art3d
 # from spherecluster import SphericalKMeans
 
 def subcon_init(input_dat):
